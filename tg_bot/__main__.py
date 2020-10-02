@@ -19,7 +19,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hi {}, my name is {}!
+Hi {}, I am Btc Mall's Manager !
 
 You can find the list of available commands with /help.
 """
@@ -27,7 +27,7 @@ You can find the list of available commands with /help.
 BOT_IMAGE = "https://telegra.ph/file/93612a540608640355f20.mp4"
 
 HELP_STRINGS = """
-Hey there! My name is *{}*.
+Hey there! I am Btc Mall Manager.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
 If you have any questions on how to use me, head over to @PhoenixSupport
